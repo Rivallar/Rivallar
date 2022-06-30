@@ -30,3 +30,8 @@ Mostly interested in :earth_africa: web-developement. So, my main focus :mag_rig
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" />
  </div>
+
+---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivallar&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
